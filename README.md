@@ -4,7 +4,7 @@ Este repositório contém a minha solução para o desafio proposto no Módulo d
 ## Desafio
 O Desafio consistia nas seguintes etapas:
 
-1) Gerar uma imagem docker que apresente a mensagem: "Full Cycle Rocks!!" utilizando a liguagem go.
+1) Gerar uma imagem docker que apresente a mensagem: "Full Cycle Rocks!!" utilizando a linguagem go.
 2) A imagem final gerada não poderia ultrapassar o tamanho de 2MB.
 3) Disponibilizar a imagem gerada no docker hub.
 
